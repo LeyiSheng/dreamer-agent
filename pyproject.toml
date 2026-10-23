@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dreamer-agent-research"
+version = "0.0.1.dev0"
+description = "Offline world-model agent training and evaluation research"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {file = "LICENSE"}
+dependencies = ["torch>=2.6,<3", "numpy>=1.24,<3", "opencv-python-headless>=4.8,<5"]
+
+[project.optional-dependencies]
+visual = ["lpips>=0.1.4", "torchvision>=0.21"]
+
+[tool.setuptools.packages.find]
+include = ["dreamer_agent", "dreamer_agent.*"]
+exclude = ["tests", "tests.*"]

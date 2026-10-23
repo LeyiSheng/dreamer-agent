@@ -1,0 +1,721 @@
+{
+  "archive_sha256": "3e6120a5abf269b9bd00008a1f0454d838cf2cc4470698fb8a4852220659dfff",
+  "files": [
+    {
+      "path": "dreamer_agent/p0_inference_acceptance.py",
+      "remote_sha256": "29c33dd90bcfd87a84f0fe5accc20502517dd0a88ab33265a7cc0ea6d42aafd5",
+      "public_sha256": "29c33dd90bcfd87a84f0fe5accc20502517dd0a88ab33265a7cc0ea6d42aafd5",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/eval_long.py",
+      "remote_sha256": "d092f65ef95b87d4084fff3225d0f64351b4a1934c78b80470a285cefe61d84a",
+      "public_sha256": "d092f65ef95b87d4084fff3225d0f64351b4a1934c78b80470a285cefe61d84a",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/proxy_rl_pilot.py",
+      "remote_sha256": "f860a9b7c0b092d5804c41d3b45451db02c9f13b5788384875d4b81a9517910d",
+      "public_sha256": "f860a9b7c0b092d5804c41d3b45451db02c9f13b5788384875d4b81a9517910d",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/record_vpt_minerl_traj.py",
+      "remote_sha256": "d78cd58a70749a4084dc4902d7ff937340eb8dfebbd853cecdb9fadc7585645d",
+      "public_sha256": "d78cd58a70749a4084dc4902d7ff937340eb8dfebbd853cecdb9fadc7585645d",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_imagination.py",
+      "remote_sha256": "fb37545447eb885d6f0bf7c82900a8f56fd792c02d4a247bae1174e7bd3e7ad4",
+      "public_sha256": "fb37545447eb885d6f0bf7c82900a8f56fd792c02d4a247bae1174e7bd3e7ad4",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_bc.py",
+      "remote_sha256": "fc7a2d3056654aa207dc070d7a8cfa60766ed34950a49a95f2938a20f315c0aa",
+      "public_sha256": "fc7a2d3056654aa207dc070d7a8cfa60766ed34950a49a95f2938a20f315c0aa",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/prepare_reward_labels.py",
+      "remote_sha256": "4e6c55637421196ce52faa4a04dd9bf736bd4cdaa085bb84c8e955924d13fbf0",
+      "public_sha256": "4e6c55637421196ce52faa4a04dd9bf736bd4cdaa085bb84c8e955924d13fbf0",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/world_v7.py",
+      "remote_sha256": "7cd1b5980587668083cc5da80eb8e0bcf9c643ac7296f3bd90a09b517401e9a0",
+      "public_sha256": "7cd1b5980587668083cc5da80eb8e0bcf9c643ac7296f3bd90a09b517401e9a0",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/q0_assets.py",
+      "remote_sha256": "b819644c3132e9f8a59d90cd6a6771a3881b93e4ceb0e7c59ae477a3b8a00274",
+      "public_sha256": "b819644c3132e9f8a59d90cd6a6771a3881b93e4ceb0e7c59ae477a3b8a00274",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/audit.py",
+      "remote_sha256": "5a44d355b754ec748d786abe665ea7a321af8ae5349a02093b04d98960afff35",
+      "public_sha256": "5a44d355b754ec748d786abe665ea7a321af8ae5349a02093b04d98960afff35",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/q0_env_probe.py",
+      "remote_sha256": "12a8d52d542e012f24ac22af54dbe59461d5ecd46b1c1cf1501cce356afca91c",
+      "public_sha256": "41beefaae49c07b38d568977dbb97ca831307ca7187f1dd5fdc3cc9df774ca5b",
+      "modified_for_publication": true
+    },
+    {
+      "path": "dreamer_agent/verify_vpt_rl_integration.py",
+      "remote_sha256": "2d273c02d1ffd80e0c48931c02aba5856bf9bd6dff8cc3e7cef44af7ab731c60",
+      "public_sha256": "2d273c02d1ffd80e0c48931c02aba5856bf9bd6dff8cc3e7cef44af7ab731c60",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/event_coverage.py",
+      "remote_sha256": "9e8635ff8b326f4e9571a73953d948ff7171cc5cdc0b7343d811fc35f1e24d7c",
+      "public_sha256": "9e8635ff8b326f4e9571a73953d948ff7171cc5cdc0b7343d811fc35f1e24d7c",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_vpt_skill_bc.py",
+      "remote_sha256": "87310bd80cba5b635d191074ecf95770d88d0f8a91754501b8b4f34fed82ac9c",
+      "public_sha256": "87310bd80cba5b635d191074ecf95770d88d0f8a91754501b8b4f34fed82ac9c",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/task_mix_windows.py",
+      "remote_sha256": "187c8f3f1e56b9bc1c5028a10a4faf78bf3ed018281142e7852b6f2ea08e912f",
+      "public_sha256": "a1871ecc7fa85c0fb52ae128396f9b4d7307faa5d5f1f92aa10d4894dd257e4e",
+      "modified_for_publication": true
+    },
+    {
+      "path": "dreamer_agent/v7_data.py",
+      "remote_sha256": "1a22585d116f603c0985ae112952978988a090fe41fdcf9c21f92c3359d4e9f9",
+      "public_sha256": "e1ca28fd34e970ce8495ef98564101a7d8762aa93c590dea03afe9de5787052b",
+      "modified_for_publication": true
+    },
+    {
+      "path": "dreamer_agent/prepare_annotations.py",
+      "remote_sha256": "fde9e71812903220a8be68bce8b6c5b1aed9f004ea53ebf7a5c9293188732e57",
+      "public_sha256": "fde9e71812903220a8be68bce8b6c5b1aed9f004ea53ebf7a5c9293188732e57",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/retrain_reward_small.py",
+      "remote_sha256": "ab626d0355ef0008a0142ce74f07450bd52431e00973adaf25c090f2a2313288",
+      "public_sha256": "ab626d0355ef0008a0142ce74f07450bd52431e00973adaf25c090f2a2313288",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/vpt_audit.py",
+      "remote_sha256": "2043024bb125b0cd43358bfca7d098185fef8237c972c3146b252bcad91a96de",
+      "public_sha256": "2043024bb125b0cd43358bfca7d098185fef8237c972c3146b252bcad91a96de",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/skill_execution.py",
+      "remote_sha256": "e90133ba9741b45fe13406fecfb340f09d4b80c36747c8c47b95826c1d3d2f44",
+      "public_sha256": "e90133ba9741b45fe13406fecfb340f09d4b80c36747c8c47b95826c1d3d2f44",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/imagination_backend.py",
+      "remote_sha256": "4a7a2d1a4944463fcc96520299b8ca62ff9a46c855a1339ce02b31f3c4dc69c0",
+      "public_sha256": "4a7a2d1a4944463fcc96520299b8ca62ff9a46c855a1339ce02b31f3c4dc69c0",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/vpt_direct_rl.py",
+      "remote_sha256": "d2db817f0a0ce9423334e2c799e15f72ce9f523b84c7b4f5781c4834a5f59555",
+      "public_sha256": "d2db817f0a0ce9423334e2c799e15f72ce9f523b84c7b4f5781c4834a5f59555",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/rl_pixels.py",
+      "remote_sha256": "738474e1ee95da1d7d05e6c31017abe7fd054be3c9da74460625a8d8afe97d84",
+      "public_sha256": "738474e1ee95da1d7d05e6c31017abe7fd054be3c9da74460625a8d8afe97d84",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/vpt_feature_cache.py",
+      "remote_sha256": "791c6e4fbf1b7f3782386656e8fc0306d130aeca4c2a8a51704ad4d5d8c27a70",
+      "public_sha256": "791c6e4fbf1b7f3782386656e8fc0306d130aeca4c2a8a51704ad4d5d8c27a70",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/eval_vpt_rl_paired.py",
+      "remote_sha256": "f3f29689699272edee68f71d73daa7e653a5d3adac37b02fae5ff2ecdf3bebfc",
+      "public_sha256": "f3f29689699272edee68f71d73daa7e653a5d3adac37b02fae5ff2ecdf3bebfc",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/imagination.py",
+      "remote_sha256": "6805d555372533aa4aebecd936e0df7ad3ae60f0093bce724e1d95d51520f351",
+      "public_sha256": "6805d555372533aa4aebecd936e0df7ad3ae60f0093bce724e1d95d51520f351",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/actions.py",
+      "remote_sha256": "06502022e40da7f2684f4339ed61005e3b6af33965407f656799728f2929dd15",
+      "public_sha256": "06502022e40da7f2684f4339ed61005e3b6af33965407f656799728f2929dd15",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/__init__.py",
+      "remote_sha256": "49268024cd031a3597e8792e158ad5be135aefa29b4b32668477467783d5b766",
+      "public_sha256": "49268024cd031a3597e8792e158ad5be135aefa29b4b32668477467783d5b766",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/prepare_budget_roots.py",
+      "remote_sha256": "88a315a1a5274a2307bb7d09f5fdcf942c8c3d4ddebb1205328d1d6a2aeb21b1",
+      "public_sha256": "88a315a1a5274a2307bb7d09f5fdcf942c8c3d4ddebb1205328d1d6a2aeb21b1",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/reward_rule.py",
+      "remote_sha256": "1bd007164371f0f2582b30acc3eb73bc9e27f344f083d29cfb5ea1df0237499c",
+      "public_sha256": "1bd007164371f0f2582b30acc3eb73bc9e27f344f083d29cfb5ea1df0237499c",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/prepare_task_bc.py",
+      "remote_sha256": "5f06bccdf7ea997baed67569a38ad40cb65072d504259b4f0127845370c3356f",
+      "public_sha256": "5f06bccdf7ea997baed67569a38ad40cb65072d504259b4f0127845370c3356f",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/wm_visual_trial.py",
+      "remote_sha256": "c8f6d0b304f3b1cfbe9f0c389775eae2049a5b1b13b009b2b5da165c31aed880",
+      "public_sha256": "c8f6d0b304f3b1cfbe9f0c389775eae2049a5b1b13b009b2b5da165c31aed880",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_reward_full_stream.py",
+      "remote_sha256": "7a877a6158a667fa9dd38196b503f42b60465c4165d9f74c8725eee53bdb506b",
+      "public_sha256": "7a877a6158a667fa9dd38196b503f42b60465c4165d9f74c8725eee53bdb506b",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/export_vpt.py",
+      "remote_sha256": "2def367aa1a1d2380524655b73c9764dc5895eb5e759ebec2f8ef7bd58af4715",
+      "public_sha256": "2def367aa1a1d2380524655b73c9764dc5895eb5e759ebec2f8ef7bd58af4715",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/diagnose_reward_origin.py",
+      "remote_sha256": "7e7439637902f13df91ed58b2d365ca737333aa8a0e798565f1ad2f211735439",
+      "public_sha256": "7e7439637902f13df91ed58b2d365ca737333aa8a0e798565f1ad2f211735439",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_bc_full_stream.py",
+      "remote_sha256": "9837af0a5fc253900d081d1a7922435e984dfcf24e46b95921c16f6f2bd0912d",
+      "public_sha256": "9837af0a5fc253900d081d1a7922435e984dfcf24e46b95921c16f6f2bd0912d",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/rl_contract.py",
+      "remote_sha256": "439b4d43b5e27a7320c03d16fcc47e3ae4f4d07eccd5dfa9060404831d7a6db3",
+      "public_sha256": "439b4d43b5e27a7320c03d16fcc47e3ae4f4d07eccd5dfa9060404831d7a6db3",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/dataset.py",
+      "remote_sha256": "b598bb4962b8a7b2c52e84e677df7ce07824a1467d1ddc90f25ee9a468f2e857",
+      "public_sha256": "b598bb4962b8a7b2c52e84e677df7ce07824a1467d1ddc90f25ee9a468f2e857",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/vpt_heads.py",
+      "remote_sha256": "b5fff21c5467249dfafe3935d424265281d1a4b934f4b11449598a5e3439551b",
+      "public_sha256": "b5fff21c5467249dfafe3935d424265281d1a4b934f4b11449598a5e3439551b",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_reward.py",
+      "remote_sha256": "0c2ce00944165dd5478f0b404ede5f9aba99d47a14d8695070230299c38f7f8f",
+      "public_sha256": "0c2ce00944165dd5478f0b404ede5f9aba99d47a14d8695070230299c38f7f8f",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/v7_agent.py",
+      "remote_sha256": "53be59d2aa848a8f191f4154c4be57dbeb51ea2d01d3478e6f77cfbf8b859dc6",
+      "public_sha256": "53be59d2aa848a8f191f4154c4be57dbeb51ea2d01d3478e6f77cfbf8b859dc6",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/vpt_features.py",
+      "remote_sha256": "81a74124db5f94f39929f78bfd2caa70c20bc1f7acc891882d365067b5f16b72",
+      "public_sha256": "81a74124db5f94f39929f78bfd2caa70c20bc1f7acc891882d365067b5f16b72",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/sources.py",
+      "remote_sha256": "5f506a6d3f3a019ab7bab4c131ef31d826700138f7bb4f8bcc2b1cf82eafe123",
+      "public_sha256": "5f506a6d3f3a019ab7bab4c131ef31d826700138f7bb4f8bcc2b1cf82eafe123",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/video_audit.py",
+      "remote_sha256": "fa3c2a938fa61d1bbfc566cc3f03ebbc6fe712d821991aa6fdf2f1c7198f67ea",
+      "public_sha256": "fa3c2a938fa61d1bbfc566cc3f03ebbc6fe712d821991aa6fdf2f1c7198f67ea",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/throughput_probe.py",
+      "remote_sha256": "242adc284e340afbf4d6eeff00e70119294748f10a8e9ae120effd8943be6a3b",
+      "public_sha256": "242adc284e340afbf4d6eeff00e70119294748f10a8e9ae120effd8943be6a3b",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/preflight_bc.py",
+      "remote_sha256": "04e9dd7cfd9d839010581becf9408114a7d86053530f473ca12349832a35d57d",
+      "public_sha256": "04e9dd7cfd9d839010581becf9408114a7d86053530f473ca12349832a35d57d",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/vpt_budget_rl.py",
+      "remote_sha256": "cc7a059e24049e6f27b975e3bc4abd1345854666739bd7ee094f31d676753100",
+      "public_sha256": "cc7a059e24049e6f27b975e3bc4abd1345854666739bd7ee094f31d676753100",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/wm_visual.py",
+      "remote_sha256": "a014418449971d4a87810a79cf29c798ce0da7d1c0d23d8f85329e7e9c12b87e",
+      "public_sha256": "a014418449971d4a87810a79cf29c798ce0da7d1c0d23d8f85329e7e9c12b87e",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/rl_roots.py",
+      "remote_sha256": "361357c7c28bfe92c4921c58cc9169de5737a9b891bbb60b7199c08a7279c79b",
+      "public_sha256": "361357c7c28bfe92c4921c58cc9169de5737a9b891bbb60b7199c08a7279c79b",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/record_bc_video.py",
+      "remote_sha256": "cb5565872f16e0245c2c32dca5320a4cb536c9c4ecd8f95beeb2084ead6a3afa",
+      "public_sha256": "cb5565872f16e0245c2c32dca5320a4cb536c9c4ecd8f95beeb2084ead6a3afa",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/audit_full_corpus.py",
+      "remote_sha256": "6566e99fc888d95c5399b5cf65628dd205c01d81d47b0a7cf4ad072b14147282",
+      "public_sha256": "6566e99fc888d95c5399b5cf65628dd205c01d81d47b0a7cf4ad072b14147282",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/complete_vpt_evaluation.py",
+      "remote_sha256": "5ee02b857bc3ccd0870b05b6c70d19ab50299a99eb8b4ad831814f3e28fef8ab",
+      "public_sha256": "f4bfb12f11c7df2cfb3922c89bec9f05746efddafde636a722a19c76f096c5a4",
+      "modified_for_publication": true
+    },
+    {
+      "path": "dreamer_agent/verify_world_adapter.py",
+      "remote_sha256": "292330599e6950181888b2ffa83b567c6227c0ad383ea8097e7ae45c8275ec55",
+      "public_sha256": "292330599e6950181888b2ffa83b567c6227c0ad383ea8097e7ae45c8275ec55",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_vpt_heads.py",
+      "remote_sha256": "27b8aac8d939a506905df54431d7d61d55b250f2398bf0d6d7aae16f2ff74be6",
+      "public_sha256": "27b8aac8d939a506905df54431d7d61d55b250f2398bf0d6d7aae16f2ff74be6",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/prepare_full_bc.py",
+      "remote_sha256": "5a6c9503720d6e419ede197764c2670da829c28bed9fb13be2a2336a67415546",
+      "public_sha256": "5a6c9503720d6e419ede197764c2670da829c28bed9fb13be2a2336a67415546",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/diamond_metric.py",
+      "remote_sha256": "acc247baf2149d23cd36ba5cc7793305462fcbbab3dbd63283865adf77270d04",
+      "public_sha256": "acc247baf2149d23cd36ba5cc7793305462fcbbab3dbd63283865adf77270d04",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/contracts.py",
+      "remote_sha256": "44cb5a2446bf59d5e4de98f798614b655593a0fad8bbb6eec66ee54571fd6ea6",
+      "public_sha256": "44cb5a2446bf59d5e4de98f798614b655593a0fad8bbb6eec66ee54571fd6ea6",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/alignment_diagnostic.py",
+      "remote_sha256": "7e528823a6ce437353b4906542ebc1ff6d37560da31743cc28cb4967d6b8a815",
+      "public_sha256": "7e528823a6ce437353b4906542ebc1ff6d37560da31743cc28cb4967d6b8a815",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/q1_support.py",
+      "remote_sha256": "8a93d38f6355609f411151bb3352e50fa38a497084fbff3e9b6c8036f9178b46",
+      "public_sha256": "8a93d38f6355609f411151bb3352e50fa38a497084fbff3e9b6c8036f9178b46",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_task_mix_v2.py",
+      "remote_sha256": "f9b4e2f3df4764e9b4f5a8be77c1065cb042e4d86c24f82687f5794dcfc32f8a",
+      "public_sha256": "f9b4e2f3df4764e9b4f5a8be77c1065cb042e4d86c24f82687f5794dcfc32f8a",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/prepare_vpt_rl_batch.py",
+      "remote_sha256": "fbb4433dcdfa008627f33bfdcdec260c6cbfbcbf7492ad1a96127f0719c2a0aa",
+      "public_sha256": "fbb4433dcdfa008627f33bfdcdec260c6cbfbcbf7492ad1a96127f0719c2a0aa",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/vpt_rl.py",
+      "remote_sha256": "103574711d0f028b7265765025dd4ad88dbaa74da5a038c5412b47ec85d59f1f",
+      "public_sha256": "103574711d0f028b7265765025dd4ad88dbaa74da5a038c5412b47ec85d59f1f",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_task_mix_stream.py",
+      "remote_sha256": "8138d78c16c386de210dcc517c1d1cc1576f3c5c8e2d95864bfdb2a1472e8131",
+      "public_sha256": "8138d78c16c386de210dcc517c1d1cc1576f3c5c8e2d95864bfdb2a1472e8131",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/learning.py",
+      "remote_sha256": "d63b862f2fa0b55b507c538ca8077d5a8c7aa8ef476b94167afab45888940642",
+      "public_sha256": "d63b862f2fa0b55b507c538ca8077d5a8c7aa8ef476b94167afab45888940642",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/provenance.py",
+      "remote_sha256": "f686d7f2932f08f924761132401a4c27c6bdc52c52c284afc1c07a209136a6d0",
+      "public_sha256": "f686d7f2932f08f924761132401a4c27c6bdc52c52c284afc1c07a209136a6d0",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/q0_camera_probe.py",
+      "remote_sha256": "3fd05c76b63dbb7a78fc5cd33b2083333966d8c13aa027cc6d8f4c3f45e607b9",
+      "public_sha256": "3fd05c76b63dbb7a78fc5cd33b2083333966d8c13aa027cc6d8f4c3f45e607b9",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/q0_contract.py",
+      "remote_sha256": "f38a40b79eb1412f39d5a5d9535455ce043589498e76307f881fd95c2b85bb42",
+      "public_sha256": "f38a40b79eb1412f39d5a5d9535455ce043589498e76307f881fd95c2b85bb42",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/world_model.py",
+      "remote_sha256": "40ac0525de28f8c5659bbb2450cdf39afb60658a80e298d5d30610a611a1090a",
+      "public_sha256": "40ac0525de28f8c5659bbb2450cdf39afb60658a80e298d5d30610a611a1090a",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/offline_rl.py",
+      "remote_sha256": "285d90d2e06024a8e6eab99a2acde2af417f608d2d55c25074773ee072502115",
+      "public_sha256": "285d90d2e06024a8e6eab99a2acde2af417f608d2d55c25074773ee072502115",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/task_mix_data.py",
+      "remote_sha256": "46f205568c30afb74344066dbb9a220383352f4bc501889556519a605f46b515",
+      "public_sha256": "46f205568c30afb74344066dbb9a220383352f4bc501889556519a605f46b515",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/reward.py",
+      "remote_sha256": "810f85ca3a0a5120702722799c96de9680b23e2ef64336de2344b336d6b64a0c",
+      "public_sha256": "810f85ca3a0a5120702722799c96de9680b23e2ef64336de2344b336d6b64a0c",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/train_vpt_imagination.py",
+      "remote_sha256": "5846ada6a638f691194f0d820d3b64c37485e13e6ddbfe6eb69e35f762135574",
+      "public_sha256": "5846ada6a638f691194f0d820d3b64c37485e13e6ddbfe6eb69e35f762135574",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/wm_finetune.py",
+      "remote_sha256": "154b75f5f35a98b5d3828e5204e635bbee2bf4fe0d95cc0b2cf078411c353c02",
+      "public_sha256": "154b75f5f35a98b5d3828e5204e635bbee2bf4fe0d95cc0b2cf078411c353c02",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/record_vpt_early_game.py",
+      "remote_sha256": "a052047989a0796c182b9569ceb53490372a36a6cd69a3b5b82a79da5a679781",
+      "public_sha256": "a052047989a0796c182b9569ceb53490372a36a6cd69a3b5b82a79da5a679781",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/rl_data.py",
+      "remote_sha256": "e2d9da1fd99a15f61e0886f6dca7472d4fc41d3062fff24b2862190277c1623c",
+      "public_sha256": "e2d9da1fd99a15f61e0886f6dca7472d4fc41d3062fff24b2862190277c1623c",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/p0_actions.py",
+      "remote_sha256": "e8c5de32e37364254e5f8df4f468ae9360973befb2678326a0bc8d6e4596e60f",
+      "public_sha256": "e8c5de32e37364254e5f8df4f468ae9360973befb2678326a0bc8d6e4596e60f",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/eval_vpt_early_game.py",
+      "remote_sha256": "a6072856f91b72c35add625d51b0700f7edfbd40b40214e1d41928f39b3e6486",
+      "public_sha256": "a6072856f91b72c35add625d51b0700f7edfbd40b40214e1d41928f39b3e6486",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/verify_rl_reward.py",
+      "remote_sha256": "3789df52f0b9af9a4de2dcf55dcb1db9e910fac0df05ef678efa06e259810b76",
+      "public_sha256": "3789df52f0b9af9a4de2dcf55dcb1db9e910fac0df05ef678efa06e259810b76",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/prepare_bc.py",
+      "remote_sha256": "b454765a3f8c67f88cf0ebb2bf48170b4d01b57823db8288dfe54e25106bfad6",
+      "public_sha256": "b454765a3f8c67f88cf0ebb2bf48170b4d01b57823db8288dfe54e25106bfad6",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/calibration.py",
+      "remote_sha256": "dca9fe747f0726f5c84d17cb2a10558dc4c9a50dbcad21e1149edde68528a786",
+      "public_sha256": "dca9fe747f0726f5c84d17cb2a10558dc4c9a50dbcad21e1149edde68528a786",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/verify_wm_visual.py",
+      "remote_sha256": "e6d4d539fd13f8356c683a4091cca13c80cc8f407319aeaa70f844ebbd44c26e",
+      "public_sha256": "e6d4d539fd13f8356c683a4091cca13c80cc8f407319aeaa70f844ebbd44c26e",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/run_p1.py",
+      "remote_sha256": "2fe1f28767ffb9a701b53da39c6cc5dfca4151d12c60372386a235de7ac7ba8d",
+      "public_sha256": "2fe1f28767ffb9a701b53da39c6cc5dfca4151d12c60372386a235de7ac7ba8d",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/paper_agent/__init__.py",
+      "remote_sha256": "d28004d75d09f2b7d2279b0ceb82ae97395db63c2304acc3cde0c2deb8dd4901",
+      "public_sha256": "d28004d75d09f2b7d2279b0ceb82ae97395db63c2304acc3cde0c2deb8dd4901",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/paper_agent/model.py",
+      "remote_sha256": "c447e9860cb9cbe40506ddb6bc0cccd35923954b2ec1dc1811d077cda872f000",
+      "public_sha256": "c447e9860cb9cbe40506ddb6bc0cccd35923954b2ec1dc1811d077cda872f000",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/paper_agent/objectives.py",
+      "remote_sha256": "e1af7060051c1cc3d3fe3b42d04483133380ed33add6867e90a4349b29cd69cd",
+      "public_sha256": "e1af7060051c1cc3d3fe3b42d04483133380ed33add6867e90a4349b29cd69cd",
+      "modified_for_publication": false
+    },
+    {
+      "path": "dreamer_agent/paper_agent/smoke.py",
+      "remote_sha256": "ba8061b420ccad59f46df8e57cf3192946b88e18a78f76c8aae88e5b426ad968",
+      "public_sha256": "ba8061b420ccad59f46df8e57cf3192946b88e18a78f76c8aae88e5b426ad968",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_source_alignment.py",
+      "remote_sha256": "800d1b35a80977280df7e8c45296db3b87baafb8afe42c2f41da128240e21d16",
+      "public_sha256": "800d1b35a80977280df7e8c45296db3b87baafb8afe42c2f41da128240e21d16",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_wm_visual.py",
+      "remote_sha256": "9ebe95604d147bb9bac35b05c9fa7ffab60b49f5eed2e2d92bde0b673da26022",
+      "public_sha256": "9ebe95604d147bb9bac35b05c9fa7ffab60b49f5eed2e2d92bde0b673da26022",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_temporal_reward.py",
+      "remote_sha256": "2f8ee874c111864dd410cd3298cd77a0890538ebf4ce321f1c45199f2ba6f0b6",
+      "public_sha256": "2f8ee874c111864dd410cd3298cd77a0890538ebf4ce321f1c45199f2ba6f0b6",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_imagination.py",
+      "remote_sha256": "f4c0cee408db3ec6746540e661b42633f462d30bd00d5c17cf85198dca381e55",
+      "public_sha256": "f4c0cee408db3ec6746540e661b42633f462d30bd00d5c17cf85198dca381e55",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_paper_agent.py",
+      "remote_sha256": "0503a67f2ea71ae2d8f93e4501188426377df2b0b7af2dca24a7b2baa9330c0c",
+      "public_sha256": "0503a67f2ea71ae2d8f93e4501188426377df2b0b7af2dca24a7b2baa9330c0c",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_rl_audit_fixes.py",
+      "remote_sha256": "4d54dfc2311c55bfc59401da46a113661aa4a36843cf6b85d712715c332ad907",
+      "public_sha256": "4d54dfc2311c55bfc59401da46a113661aa4a36843cf6b85d712715c332ad907",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_reward_labels.py",
+      "remote_sha256": "9172043a06cae880aacf2da069cdfa3b799da6a0679ceccdb0e601e517eea690",
+      "public_sha256": "9172043a06cae880aacf2da069cdfa3b799da6a0679ceccdb0e601e517eea690",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_agent_core.py",
+      "remote_sha256": "df336a73bd5e8b91e06d8215e706ab0be6078d2eb39eb126e04f9e46138b4abd",
+      "public_sha256": "df336a73bd5e8b91e06d8215e706ab0be6078d2eb39eb126e04f9e46138b4abd",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_reward.py",
+      "remote_sha256": "08fe50b25c3c20d194873e1d6e3809d1ba7fc1ee649797240b0541c2df2b3c16",
+      "public_sha256": "08fe50b25c3c20d194873e1d6e3809d1ba7fc1ee649797240b0541c2df2b3c16",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_p1_pipeline.py",
+      "remote_sha256": "197ba663ab289387062b2110b6a83946822d89551373f995805a1bc0f7a0cb9e",
+      "public_sha256": "197ba663ab289387062b2110b6a83946822d89551373f995805a1bc0f7a0cb9e",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_vpt_direct_rl.py",
+      "remote_sha256": "030ef7a56d61c50520bdad9cac663bfe8eaa5213ea8d453b1111d4a213401352",
+      "public_sha256": "030ef7a56d61c50520bdad9cac663bfe8eaa5213ea8d453b1111d4a213401352",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_task_mix_v2.py",
+      "remote_sha256": "d3b0701210ff9ab11e5be3233beffa5ec2dc0327608527f143ab75d1f27f8f0f",
+      "public_sha256": "d3b0701210ff9ab11e5be3233beffa5ec2dc0327608527f143ab75d1f27f8f0f",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_plan_merge_runtime.py",
+      "remote_sha256": "65fe73a900c261d2531ba4cd87f211e47561c792db68ecca014ca5772cca1e96",
+      "public_sha256": "65fe73a900c261d2531ba4cd87f211e47561c792db68ecca014ca5772cca1e96",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_p0_p1.py",
+      "remote_sha256": "80d1709cf8ef976bb646a9a7fc100a7aaf972826263daad763210b9dc104584a",
+      "public_sha256": "80d1709cf8ef976bb646a9a7fc100a7aaf972826263daad763210b9dc104584a",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_world_adapter.py",
+      "remote_sha256": "da3c009321955c94282ab2ad0fbf9579844556d54a03210d16422895b89d4e0f",
+      "public_sha256": "da3c009321955c94282ab2ad0fbf9579844556d54a03210d16422895b89d4e0f",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_vpt_budget_rl.py",
+      "remote_sha256": "f72e657431c3a760c6c4c6a00a39ae6edf48daad3d7b20a37169368fd3c396c9",
+      "public_sha256": "f72e657431c3a760c6c4c6a00a39ae6edf48daad3d7b20a37169368fd3c396c9",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_threshold_sweep.py",
+      "remote_sha256": "818587ab8023092c4d2660e2d9160b2bd66220a29ba40a86d7df3800713cec7f",
+      "public_sha256": "818587ab8023092c4d2660e2d9160b2bd66220a29ba40a86d7df3800713cec7f",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_vpt_paired_scorer.py",
+      "remote_sha256": "ec5be891ff946e8125bf1c36f60db1c8f1aa0d9814e4c8eca286e630b26772be",
+      "public_sha256": "ec5be891ff946e8125bf1c36f60db1c8f1aa0d9814e4c8eca286e630b26772be",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_complete_vpt_evaluation.py",
+      "remote_sha256": "5c48b74b3e3511e4f4705adc70e03841eae09f35c71dc331001f92accc809515",
+      "public_sha256": "5c48b74b3e3511e4f4705adc70e03841eae09f35c71dc331001f92accc809515",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_event_coverage.py",
+      "remote_sha256": "9751223cad3d418f67728b0a2d98235ac8a51b64fc254a1203751036b00bb927",
+      "public_sha256": "9751223cad3d418f67728b0a2d98235ac8a51b64fc254a1203751036b00bb927",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_rl_pixels.py",
+      "remote_sha256": "936c4d5604deeb63eac984effd976d5e03a6df10bfca608fdfdfb09e742a57b4",
+      "public_sha256": "936c4d5604deeb63eac984effd976d5e03a6df10bfca608fdfdfb09e742a57b4",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_full_corpus_audit.py",
+      "remote_sha256": "4388f097f9e471a76f96d1de21e3de29ad986c93573817b291b102bf7534eee5",
+      "public_sha256": "4388f097f9e471a76f96d1de21e3de29ad986c93573817b291b102bf7534eee5",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_basic_bc.py",
+      "remote_sha256": "a4539e73473ca77c18a72ebef81b094e1f1229c062bcb7b7e1bec3abc2bae5f1",
+      "public_sha256": "a4539e73473ca77c18a72ebef81b094e1f1229c062bcb7b7e1bec3abc2bae5f1",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_proxy_pilot.py",
+      "remote_sha256": "6b18fa61f57b8d2d0ffb76dddb8486b77f8598bb99131cbbb3d3c471225143a6",
+      "public_sha256": "6b18fa61f57b8d2d0ffb76dddb8486b77f8598bb99131cbbb3d3c471225143a6",
+      "modified_for_publication": false
+    },
+    {
+      "path": "tests/test_task_bc.py",
+      "remote_sha256": "c43bb26d9982f5f91349a83cd21adf8112de1413bef92e91a18c600441b0f6b3",
+      "public_sha256": "c43bb26d9982f5f91349a83cd21adf8112de1413bef92e91a18c600441b0f6b3",
+      "modified_for_publication": false
+    },
+    {
+      "path": "docs/PLAN_V5_SOURCE.md",
+      "remote_sha256": "bd1e0d5d0d66331f22966506d19098594eab13e006c97e7964c0866c99ac9d66",
+      "public_sha256": "bd1e0d5d0d66331f22966506d19098594eab13e006c97e7964c0866c99ac9d66",
+      "modified_for_publication": false
+    },
+    {
+      "path": "docs/PLAN_V6.md",
+      "remote_sha256": "a180ef564bcc8f7e2b5681f996475ba54d0df153101642ed500a113d3dc8a666",
+      "public_sha256": "deb6057a97f48d93a13aa5eb19854196efa5c11c46c550e92147807c963c0810",
+      "modified_for_publication": true
+    },
+    {
+      "path": "docs/PLAN_V7.md",
+      "remote_sha256": "fb9b2a4ca2fafffdca13e8c205fcfa4d17b89ad8452fad5ec342f50b35a7ea75",
+      "public_sha256": "82f8dd3e53e3dc1248073b8498dedee4d25aa605ccbcd7ca785c1f6ab0906581",
+      "modified_for_publication": true
+    },
+    {
+      "path": "docs/PLAN_V7_AUDIT_20260926.md",
+      "remote_sha256": "ac2cb79d8e97004fad6e9598084632c55c63ec65a8ef3df9d5a468249b76b90d",
+      "public_sha256": "430e013d55ef3fafe40f5bdc14b820587b4361df38bcfd4a1bb1ae9ee02a6ce2",
+      "modified_for_publication": true
+    },
+    {
+      "path": "docs/P1_PIPELINE.md",
+      "remote_sha256": "bf5762c3557571f2629afc00676f853d8131ec8a5b6168999bbe3ecd47012c10",
+      "public_sha256": "bfff49d5e4406568fa79103787b3a8d4c02adcc100f4df458df800cd0c089c3f",
+      "modified_for_publication": true
+    },
+    {
+      "path": "docs/P2_IMPLEMENTATION.md",
+      "remote_sha256": "58a2727697a942e575fb47f1febcbf5a90739b7572b8a8a488755aea5506719b",
+      "public_sha256": "58a2727697a942e575fb47f1febcbf5a90739b7572b8a8a488755aea5506719b",
+      "modified_for_publication": false
+    },
+    {
+      "path": "docs/PAPER_AGENT_ROUTE.md",
+      "remote_sha256": "c5bb4bd83c46fbb5425e27deea01d7f0d6d0be1f3a6f9719feb0e5c3a42c326b",
+      "public_sha256": "1dfd04e77c4b799c11385d8f22c805642f9ac0c71a56dd1b25f2e57e7630664e",
+      "modified_for_publication": true
+    },
+    {
+      "path": "docs/RL_V6_V41_SYNTHESIS.md",
+      "remote_sha256": "5ffb0b10633c3bf2067935e379b609ccd7f99d7bcf0bd56dcd41149a86f5a761",
+      "public_sha256": "5ffb0b10633c3bf2067935e379b609ccd7f99d7bcf0bd56dcd41149a86f5a761",
+      "modified_for_publication": false
+    }
+  ],
+  "retrieved_date": "2026-10-23",
+  "source_git_commit": null
+}
