@@ -4,9 +4,7 @@
 
 ## 作者
 
-**Leyi Sheng · Jiaheng Wei · Xiaobo Xia\***
-
-
+**Leyi Sheng · Jiaheng Wei · Xiaobo Xia**
 
 本仓库的自有源码位于 `dreamer_agent/`。本次公开准备版本从实验主工作目录提取，源文件清单及哈希见 [SOURCE_SNAPSHOT](docs/SOURCE_SNAPSHOT.json)。
 
@@ -69,13 +67,13 @@ python scripts/release.py export --output dist/dreamer-agent-source.tar.gz
 
 如果本项目的代码或训练流程对你的研究有帮助，请使用以下软件引用格式：
 
-> Wei, J., & Xia, X. (2026). *Dreamer Agent* [Computer software]. https://github.com/LeyiSheng/dreamer-agent
+> Sheng, L., Wei, J., & Xia, X. (2026). *Dreamer Agent* [Computer software]. https://github.com/LeyiSheng/dreamer-agent
 
 BibTeX：
 
 ```bibtex
-@misc{wei2026dreameragent,
-  author       = {},
+@misc{sheng2026dreameragent,
+  author       = {Sheng, Leyi and Wei, Jiaheng and Xia, Xiaobo},
   title        = {{Dreamer Agent}},
   year         = {2026},
   howpublished = {Computer software},
