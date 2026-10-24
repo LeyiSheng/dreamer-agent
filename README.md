@@ -4,9 +4,9 @@
 
 ## 作者
 
-**Jiaheng Wei · Xiaobo Xia\***
+**Leyi Sheng · Jiaheng Wei · Xiaobo Xia\***
 
-\* **通讯作者（Corresponding author）：Xiaobo Xia**
+
 
 本仓库的自有源码位于 `dreamer_agent/`。本次公开准备版本从实验主工作目录提取，源文件清单及哈希见 [SOURCE_SNAPSHOT](docs/SOURCE_SNAPSHOT.json)。
 
@@ -75,7 +75,7 @@ BibTeX：
 
 ```bibtex
 @misc{wei2026dreameragent,
-  author       = {Wei, Jiaheng and Xia, Xiaobo},
+  author       = {},
   title        = {{Dreamer Agent}},
   year         = {2026},
   howpublished = {Computer software},
